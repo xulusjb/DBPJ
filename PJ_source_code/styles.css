@@ -1,0 +1,149 @@
+* {
+  font-family:verdana,sans-serif;
+  font-size  :14pt;
+}
+
+body{
+  background-color: #fff;
+  background-size:cover;
+}
+
+html {
+  width: 100%;
+  height: 100%;
+}
+
+img {
+  /*border            :1px solid black;
+  /*margin-right      :15px;
+  /*-moz-box-shadow   :2px 2px 2px #888;
+  -webkit-box-shadow:2px 2px 2px #888;
+  box-shadow        :2px 2px 2px #888;*/
+}
+
+li a, .button {
+  text-decoration:none;
+}
+
+li a:hover, .button:hover {
+  color:green;
+}
+ 
+.appname {
+  /*text-align :center;*/
+  background : #fdfdfe;
+  color      : #0f419b;
+  font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+  height : 70px;
+  font-size  :30pt;
+  padding    :4px;
+}
+
+.fieldname {
+  float:left;
+  width:120px;
+}
+
+.main {
+
+  margin-left:40px;
+  margin-right:40px;
+  background: #fff;
+}
+
+.info {
+  background :lightgreen;
+  color      :blue;
+	border     :1px solid green;
+	padding    :5px 10px;
+  margin-left:40px;
+}
+
+.menu li, .button {
+  display           :inline;
+  padding           :4px 6px;
+  border            :1px solid #777;
+  background        :#ddd;
+	color             :#d04;
+  margin-right      :8px;
+	border-radius     :5px;
+	-moz-box-shadow   :2px 2px 2px #888;
+	-webkit-box-shadow:2px 2px 2px #888;
+	box-shadow        :2px 2px 2px #888;
+}
+
+.subhead {
+  font-weight:bold;
+}
+
+.taken, .error {
+  color:red;
+}
+
+#headerphoto
+{
+  background-image: url(BKG7.jpg);
+  background-size:cover;
+  height: 800px;
+}
+#graphwraper
+{
+  margin-left: 650px;
+}
+
+.available {
+  color:green;
+}
+
+.whisper {
+  font-style:italic;
+  color     :#006600;
+}
+#fudan
+{
+
+
+  float: left;
+
+  margin-right:20px;
+}
+
+#upperhead
+{
+  color: #f6fbee;
+  background-color: #4E5869;
+  height:30px;
+}
+
+#slide
+{
+  height: 2px;
+
+  background-color: #2e3640;
+  margin-right      :8px;
+  margin-left      :8px;
+}
+
+#logo {
+  font-family:FangSong;
+  font-weight:bold;
+  font-style:normal;
+  font-size :97px;
+}
+
+
+#cutup
+{
+  background-color: #223fd7;
+  height:5px;
+}
+
+footer {
+  padding: 20px 0;
+  background-color: #f8f8f8;
+  text-align :center;
+}
+
+p.copyright {
+  margin: 15px 0 0;
+}
